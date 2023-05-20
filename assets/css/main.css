@@ -296,6 +296,23 @@ input, select, textarea {
 }
 
 
+/* My Projects */
+.project{
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	align-items: stretch;
+}
+
+.project.name{
+	justify-content: flex-start;
+}
+
+.project.description{
+	text-align: left;
+	font-size: medium;
+}
+
 /* Row */
 
 
