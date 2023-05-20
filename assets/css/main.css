@@ -258,16 +258,46 @@ input, select, textarea {
 
 		}
 
+/* My images */
+#python_logo {
+	width: 70%!important;
+}
+
+#numpy_logo {
+	margin-top: -15px;
+	width: 50%!important;
+}
+
+#pandas_logo{
+	width: 50%!important;
+	margin-top:-5px;
+}
+
+#mpl_logo{
+	width: 70%!important;
+	margin-top: 20px;
+}
+
+#sql_logo{
+	width: 50%!important;
+	margin-top: 0px;
+}
+
+#git_logo{
+	width: 60%!important;
+	margin-top: -25px;
+	margin-left: -25px;
+}
+
+#airflow_logo{
+	width: 70%!important;
+	margin-top: 10px;
+	margin-left: -20px;
+}
+
+
 /* Row */
 
-.image1 {
-	width: 70%!important
-}
-
-.image2 {
-	margin-top: -15px;
-	width: 50%!important
-}
 
 	.row {
 		display: flex;
