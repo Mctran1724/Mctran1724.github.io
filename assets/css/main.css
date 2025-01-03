@@ -306,6 +306,7 @@ input, select, textarea {
 
 .project.name{
 	justify-content: flex-start;
+	text-align: left;
 }
 
 .project.description{
