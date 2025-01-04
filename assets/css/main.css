@@ -321,7 +321,7 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: center;
+		align-items: stretch;
 	}
 
 		.row > * {
