@@ -305,7 +305,7 @@ input, select, textarea {
 }
 
 .project.name{
-	justify-content: flex-start;
+	/* justify-content: flex-start; */
 	text-align: left;
 }
 
